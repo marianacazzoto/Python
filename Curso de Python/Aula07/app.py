@@ -1,3 +1,5 @@
+#Funções
+
 def sptech(turma):
     print(f"Turma 2021/2 - {turma}")
 

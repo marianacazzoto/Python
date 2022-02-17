@@ -1,3 +1,5 @@
+# Trabalhando com Strings
+
 minha_string = "qualquer texto"
 print(f"concatenar {minha_string} em string")
 

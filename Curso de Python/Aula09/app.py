@@ -1,3 +1,5 @@
+#Loops: While e For
+
 """ i = 1
 
 while i < 10:
@@ -20,5 +22,6 @@ for letra in canal:
 for index in range(20):
     print(index) """
 
-for index in range(len(criancas)):
-    print(criancas[index],index)
+#for index in range(len(criancas)):
+    #print(criancas[index],index)
+

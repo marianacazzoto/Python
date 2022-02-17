@@ -1,5 +1,7 @@
+# Variaveis e Tipos de dados
+
 nome = "Mariana"
-idade = "19";
+idade = "19"
 gosto_de = "Séries"
 
 print(f"Meu nome é {nome}")

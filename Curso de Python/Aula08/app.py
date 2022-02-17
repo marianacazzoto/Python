@@ -1,3 +1,5 @@
+#If, Else statements, Operadores Lógicos e Comparação
+
 #tenho_sede = True
 
 #if tenho_sede:
